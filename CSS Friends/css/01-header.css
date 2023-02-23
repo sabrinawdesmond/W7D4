@@ -1,2 +1,11 @@
 /* PHASE 1: Header */
 
+body {
+  font-family: 'Shantell Sans', cursive;
+  font-size: 48px;
+  font-weight: 200;
+}
+
+.header {
+  background-color: red;
+}
